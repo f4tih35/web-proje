@@ -1,0 +1,72 @@
+body
+{
+    background-image: url('../images/bg.jpg');
+}
+
+.header
+{
+    background-color: #576d8e;
+}
+
+.header p
+{
+    float: left;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 15px 40px;
+    text-decoration: none;
+
+}
+
+.header a:hover
+{
+    text-decoration: none;
+}
+
+ul {
+    list-style-type: none;
+    overflow: hidden;
+}
+
+li {
+    float: right;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 15px 40px;
+    text-decoration: none;
+}
+
+li a:hover:not(.active) 
+{
+    text-decoration: none;
+    color:black;
+}
+
+.active 
+{
+    text-decoration: none;
+    color:black;
+}
+
+li a:hover.active
+{
+    text-decoration: none;
+    color:white;
+}
+
+.ortayazi
+{
+    margin: 1% 5% 1% 5%;
+    padding: 5% 20% 2% 20%;
+}
+
+ .responsive_image
+ {
+    width: 100%;
+    height: auto;
+ }
