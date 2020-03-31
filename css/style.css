@@ -70,3 +70,22 @@ li a:hover.active
     width: 100%;
     height: auto;
  }
+
+ .cv_table
+ {
+     margin: auto;
+ }
+
+ table
+ {
+    border-collapse: collapse;
+    width: 30%;
+ }
+
+ tr:nth-child(even) {background-color: #7e93a3}
+
+ .cv_orta
+ {
+     padding: 2% 10% 10% 10% ;
+     overflow-x:auto;
+ }
