@@ -22,7 +22,7 @@
 <p><a href="index.html">Fatih Melih Ersoy</a></p>
 <ul>
     <li><a href="login.php" class="active">Giriş Yap</a></li>
-    <li><a href="iletisim.php">İletişim</a></li>
+    <li><a href="iletisim.html">İletişim</a></li>
     <li><a href="mirasimiz.html">Mirasımız</a></li>
     <li><a href="sehir.html">Şehrim</a></li>
     <li><a href="cv.html">CV</a></li>
