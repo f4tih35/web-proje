@@ -63,7 +63,7 @@
                   $_SESSION['timeout'] = time();
                   $_SESSION['username'] = 'melih.ersoy@sakarya.edu.tr';
                   
-                  header("Location: hosgeldiniz.php");;
+                  header("Location: hosgeldiniz.html");;
                }else {
                   $msg = 'Kullanıcı adı veya Parola Hatalı!!';
                }
